@@ -1,7 +1,7 @@
 ## K.Manoradh
 
 #### Learner
-<img align="right" alt="coding" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
+<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 #### Learner • Python • C • Java • DSA • Data science • passionate about coding • Learning in Public 
 
